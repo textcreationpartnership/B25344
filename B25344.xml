@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eight observable points of law; necessary to be commonly known to the common people, for their common good: collected out of several authors, and statutes, executable by Justices of the Peace in their counties, and Magistrates in their corporations: humbly presented to their considerations..</title>
+            <author>Jones, John, of Neyath, Brecon.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25344</idno><idno type="EEBO-CITATION">99888393</idno>
+  <idno type="VID">201698</idno>
+  <idno type="EEBO-PROQUEST">2248545341</idno>
+  
+            <idno type="STC">Wing J965</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.12[130]</idno>
+            <idno type="STC">ESTC R229542</idno>
+            <idno type="PROQUEST">ocm99888393</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888393e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25344)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201698)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C26:3[130])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eight observable points of law; necessary to be commonly known to the common people, for their common good: collected out of several authors, and statutes, executable by Justices of the Peace in their counties, and Magistrates in their corporations: humbly presented to their considerations..</title>
+                  <author>Jones, John, of Neyath, Brecon.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Civil rights --  England --  Early works to 1800.</term>
+               <term type="topical_term">Justice, Administration of --  England --  Early works to 1800.</term>
+               <term type="topical_term">Law --  Great Britain --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:201698:1"/>
+            <head>EIGHT OBSERVABLE POINTS OF LAW; Necessary to be commonly known to the Common People, for their common good: Collected out of several Authors, and Statutes, Executable by Justices of the Peace in their Counties, and Magistrates in their Corporations: Humbly presented to their Considerations.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ounties and Sheriffs Turnes, were ancient Courts in the time of King <hi>Arthur,</hi> and before; And in the Turns were tried all Pleas of the Crown; and in the Counties all Common Pleas under fourty shillings without writ; and above, to any value with Writs, according to the Law maxime, <hi>Quod placita de Catallis, debitis</hi> &amp;c.<note place="margin">1. The choice of all Officers of Peace, and Trust, ancient<g ref="char:EOLhyphen"/>ly in the people, confirmed by <hi>Mag. Chart.</hi>
+               </note>
+               <hi>quae summam</hi> 40 <seg rend="sup">s</seg>. <hi>attingunt, vel excedunt secundùm legem &amp; consuetudinem Angliae, sine br<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vi Regis placitari non debent.</hi> See the Lord <hi>Coke</hi> upon the 35<seg rend="sup">th</seg> Chap. of <hi>Magna Charta;</hi> and upon the Statute of <hi>Gloucester</hi> fol. 310. &amp; 312. Hundreds, and Court Barons have the same power, and rights, and neither Sheriffs nor Stewards are Judges, but suiters onely, fol. 312. And so all men were to have Law and Justice at home, cheap and near, and not to fetch it from <hi>Westminster,</hi> far and dear. And the Conservators, otherwise called Guardians of the Peace before <hi>Magna Charta,</hi> and since; had all necessary power to govern their Counties in Peace, and to exe<g ref="char:EOLhyphen"/>cute all Laws conducing thereunto, and to command the power of their Counties to assist them; and were chosen (as all other Officers of Peace and Trust were) by their Counties, as the Lord <hi>Coke</hi> affirmeth.</p>
+            <p>As Superiour Courts ought not to incroach upon Inferiour, so the Inferiour ought not to defraud the Superiour, of those causes that belong to them: <hi>viz.</hi> Neither ought a man be sued in any Court of <hi>Record</hi> for debt not amounting to 40 <seg rend="sup">s</seg>. by way of <hi>mutuatus,</hi> and other lawless tricks dayly used by Attornies; nor in any inferiour Court for debt of 40 <seg rend="sup">s</seg>. or<note place="margin">2. This <hi>Mutuatus</hi> is usual in the Kings Bench, and Com<g ref="char:EOLhyphen"/>mon Pleas, to fetch poor men not worth 40 s. from <hi>York,</hi> or <hi>Cernwal,</hi> to <hi>London,</hi> for 5 s. debt, or less; and to out-law him in the Common Pleas, if he come not; which example other Courts of <hi>Record</hi> follow too much.</note> exceeding, by dividing it into Actions under 40 <seg rend="sup">s</seg>. In which cases the Defendant ought to be admitted to plead to the jurisdiction of the Court, and to have a <hi>Prohibition</hi> to stay the suit: see the Lord <hi>Coke,</hi> upon the Stat. of <hi>Glouc.</hi> fol. 311. And all Courts were to dismiss all Actions entred without sufficient bail to prosecute, answerable for costs and dammages. If non-suited, or Cast; and not <hi>Jo. D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> and <hi>Rich. Ro.</hi> as is used. See <hi>F. H.</hi> Just. P. the Register, and <hi>Fitz. H. Nat. brevium</hi> at large. And no Court of <hi>Record</hi> was to proceed in any act<g ref="char:EOLhyphen"/>ion of debt, before the Plantiff swore his said debt to be 40 <seg rend="sup">s</seg>. or more, and his damage in trespass to be so much at least: And if Battery, that he was beaten indeed, to his uncurable hurt to that value. See the Stat. of <hi>Glouc.</hi> and the L. <hi>Coke</hi> upon it, with his reason for the discontinuance of this practice.</p>
+            <p>All the Kings Writs for the doing justice and right to all men f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eely and speedily, without delay or denial, ought to be granted, and had freely at the Kings cost: And justice ought<note place="margin">3. Doth not the denial of an <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>beas Corpus</hi> to bring a pri<g ref="char:EOLhyphen"/>soner before a Judge without Fees, (both to Judge and At<g ref="char:EOLhyphen"/>torney) include the sale, de<g ref="char:EOLhyphen"/>lay, &amp; denial of justice, while the prisoner is unprovided to buy it?</note> to be done freely, without sale; fully▪ without denial; and speedily, without delay: whereby (saith the Lord <hi>Coke</hi>) it appeareth that justice must have three qualities, <hi>viz.</hi> To be Free, because nothing is more vile, than what is venal; Full, and perfect, that it may not halt; And speedy, because delay is a kind of denial. See the L. <hi>Coke</hi> upon the Stat. of <hi>Marlbr.</hi> chap. 80. Thus to have and do, was the Common Law of <hi>England,</hi> and the Liberties, and Right of the <hi>People</hi> before <hi>Mag. Char.</hi> and saved unto them by it: and the best Birth<g ref="char:EOLhyphen"/>right they ever had, or can have; whereby their Lands, Goods, Wives, Children, Bodies, Lives, Honours, and Estimations ought to be protected from injuries. See the L. <hi>Coke</hi> up<g ref="char:EOLhyphen"/>on the 29<seg rend="sup">th</seg> and 38<seg rend="sup">th</seg> chap. of <hi>Mag. Char.</hi>
+            </p>
+            <p>Therefore <hi>Mag. Char.</hi> ought to be read, and published to the People in all Cathedrals twice yearly: And all breakers thereof are excommunicated <hi>ipso facto,</hi> and so twice pro<g ref="char:EOLhyphen"/>nounced<note place="margin">4. All defaults, and offences of Sherifs, Coroners, Eschea<g ref="char:EOLhyphen"/>tours <hi>&amp;c.</hi> inquirable, and punishable by Justices of Peace.</note> by two Acts of Parliament, <hi>Tit. confir. &amp; excommengm</hi>
+               <seg rend="sup">t</seg>. <hi>in Rast. abridg.</hi> fol. 65. and 148. And it ought to be read in full County in every shire, four times yearly, and all the breakers thereof inquired of there; and further inquired of, and punished by Fines, Imprisonments, <hi>&amp;c.</hi> by Justices in <hi>Eyre,</hi> two of every Counties chusing, whereby 12. or 14. may serve in circuits throughout <hi>England,</hi> and <hi>Wales,</hi> divided into six or seven Provinces, as twelve did serve for all <hi>England</hi> divided into six. See, and compare <hi>Rast.</hi> abridg. fol. 65. and <hi>Rog. Hoveden parte poster. Annal.</hi> fol. 313. The not reading, and publishing of <hi>Mag. Char.</hi> is the default partly of Sheriffs not requiring it; partly, of the Clerk of the Crown, <hi>&amp;c.</hi> not sending it to them under Seal. All defaults of Sheriffs, <hi>&amp;c.</hi> are inquirable, and punishable by Justices of Peace; as <hi>Lamb. Fitz. H. Cromp. Dalt.</hi> &amp;c. affirm at large.</p>
+            <p>Justices in <hi>Eyre</hi> are discontinued long since, and not onely for that they were interrupted, and wearied out by the Prerogative Judges, and Courts at <hi>Westminster</hi> by their <hi>Certioraries,</hi>
+               <note place="margin">5. Observe the Peoples choice resumed by this Stat. when the King presumed to make Justi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of Peace, and under that specious Title to im<g ref="char:EOLhyphen"/>power them, first to affront, and by degrees to suppress, and at last to extinguish the la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ger power of Conservatours. A Prerogative imposture divised by lawyers for their own advantage, when they got the King to confer this creation of Justices of Peace, upon his Chancellours, and Keepers, to whom their creatures be<g ref="char:EOLhyphen"/>came obliged to subject all <hi>England</hi> to <hi>Westminster,</hi> contrary to <hi>Mag. Char.</hi>
+               </note>
+               <hi>Corpus cum causa, Errours;</hi> and other Writs (as the L. <hi>Coke</hi> confesseth in his Exposition of the Stat. called <hi>Art. super Chart.</hi> fol. 540.) but also for that Justices of Assize, Justices of Peace, and all Oyers, and Terminers by their Commissions, and Magistrates of Corporations by their Charters, were enabled and sworn to hear and determine all Trespasses, Contempts, Oppressions, and Misdemeanours, according to the Lawes and customes of <hi>England,</hi> as appeareth in, and by all Commissions of the Peace, Oyers, Terminers, and Charters that have Oyer and Terminer, and by the Stat. made for the first institution of Justices of Peace, in the 18<seg rend="sup">th</seg> year of <hi>Ed.</hi> 3. in which year was also ordained the Oath of all Judges, and Justices of Oyer and Terminer for the due execution of Justice, without sale, delay or denial, which the thrice reverend Judge <hi>Anthony Fitz Herb.</hi> admonisheth them that consider it, and their duty to God, and their Countrey, not to break upon any conditions, <hi>Nat. brevium</hi> fol. 240. d. but now the common practice is otherwise.</p>
+            <p>Any that will, ought to have Commissions of Oyer and Terminer for all Extortions, Oppressions, and Misdemeanours of Sheriffs, Undersheriffs, Escheatours, Bayliffs, Clerks, and<note place="margin">6. Justices of Peace ought not to be seduced to transgress <hi>Mag. Char.</hi> and the <hi>Petition of Right,</hi> by any Stat. that con<g ref="char:EOLhyphen"/>tradicts them, nor to lose the publike interest for any Pre<g ref="char:EOLhyphen"/>rogative usurpation, but to re-assume their Authority from the People, to act as conservatours of the ancient peace, and profit of the Com<g ref="char:EOLhyphen"/>mon-wealth: as in cases of <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mitter,</hi> men stand to their best Title.</note> all other Officers: See <hi>Cromp.</hi> Just. Peace, fol. 51. 8. <hi>Fitz. H. Nat. br.</hi> fol. 112. d. And Justices of Peace, and all other Commissioners that ought by their Commissions, and Oaths, to punish all such offences, and do not, are no less than perjurers, and the greatest malefactours of all other, themselves. Nor can any Writs of <hi>Certioran, Corpus cum causa, Errour, super<g ref="char:EOLhyphen"/>sedeas,</hi> or putting out of Commission, excuse or supercede them to finnish their Judgements, and Executions in all such causes brought in question before them: See and compare the Stat. of 2. <hi>Ed.</hi> 3. and 14. <hi>Ed.</hi> 3. 14. and the 20. <hi>Ed.</hi> 3. 1. and the <hi>Procedendo</hi> thereupon in <hi>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tz. H. Nat. Br.</hi> fol. 240. where it is said; <hi>They shall proceed to justice according to law, notwithstand<g ref="char:EOLhyphen"/>ing any Letter, Commandment, Prohibition, Writ, Privy-Seal, or Great Seal to the contrary.</hi> And if any such things be granted by the King, or any of his Judges or Courts, such a <hi>Procedendo</hi> ought to be granted by the keeper of the Broad Seal to countermand them; and to command Justice, Judgement, and Execution to be done, even against the King, much rather against Judges, who under colour of Authority and Justice, delude and wrong Kings, and <hi>People: For</hi> (saith the L. <hi>Coke</hi> upon the Stat. of <hi>Marlebridge,</hi> cap. 5.) <hi>there is no greater injustice, than when under colour of Justice, men are injured:</hi> but <hi>Writs of Certiorari Corpus cum causa, and Errour,</hi> ought to be had, and granted, upon proof of malice, partiallity, injustice, or errour in matter, committed by any inferiour Court, but not upon suggestions, or bare suppositions, as is used: See and compare therefore all the said Statutes in this case, together with M. <hi>Dearhams</hi> Manuel, p. 25. Nor by any Superiour Judges or Courts that are parties, or concerned in the cause. see the L. <hi>Coke</hi> upon <hi>Art. super Chart.</hi>
+            </p>
+            <p>The granting of Writs, or Commissions to do injustice by, or to stay, or delay Justice, where it is done, or doing; or to deny Writs or Commissions to cause or further Justice to be<note place="margin">7. These oppressions are dai<g ref="char:EOLhyphen"/>ly committed by mercinary lawyers, by colour of Stat. of their own devices against <hi>Mar. Chart.</hi> which Statutes ought to be repealed, and the longer execution thereof re<g ref="char:EOLhyphen"/>sisted by all, or any necessa<g ref="char:EOLhyphen"/>ry means,</note> done, (which alwaies was, and yet is the practice of the Prerogative Judges, at <hi>Westminster;</hi> not onely to cross, and interrupt Commissioners legally chosen in, and by their Counties, (as Justices in Eyre were) and such, and all Justices of Peace, and Officers of Trust, and concernement in, and to the Common-wealth, still ought to be) is the worst of all Oppressions, and a general destruction of Law and <hi>People,</hi> committed by colour of an usurped Authority, as saith the L. <hi>Coke</hi> upon the Statute of <hi>Marl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>br.</hi> cap. 5. To prevent which (his Lordship further saith) <hi>It is lawful for the People to take up Armes, or for Inferiour Judges to commit their Superiours, and that before any Verdict, or Judgement, because they wor<g ref="char:EOLhyphen"/>thily loose the benefit of Law, who intend to subvert it; and Subordinate authority is more to be obeyed, and assisted in the execution of Justice, than the Supreamest to be indured to obstruct it.</hi> All this, and more, is to be read in effect, in the L. <hi>Cokes</hi> Exposition upon <hi>Art. super Char.</hi> and the Stat. of <hi>Marlebr.</hi> which if executed by Justices of Peace in their Counties, and Magistrates in their Corporations, would soon regulate abuses, settle Peace, and much inable the State, and Common-wealth to pay publike debts, and relieve distressed Souldiers: For it is Law it self, as virtue it selfe, invirtuateth, dignifieth, and authorizeth her true servants to execute her precepts; and confoundeth, expulseth, and turneth out of her service all her unjust Stewards, and underminers: As <hi>Jacob,</hi> and <hi>David</hi> were preferred before their elder brethren; and <hi>Saul, Jerob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am,</hi> &amp;c. were confounded by, and for their own Apostacies.</p>
+            <p>Under the Titles of Trespasses, Contempts, Oppressions, Misdemeanours, are comprehended all breaches of <hi>Mag. Char.</hi> and all Offences against all Statutes in force, and concur<g ref="char:EOLhyphen"/>rent<note place="margin">8. As in all these cases, &amp;c. all Justices of Peace should be careful to observe their Oaths, and perform their du<g ref="char:EOLhyphen"/>ties to this Common-wealth (whereof they are eminent members) So, no doubt, the Free-men of <hi>England</hi> would be ready to assist them in the regaining and <hi>Preservation of their ancient Birth-rights, Lawes, and Liberties.</hi>
+               </note> with <hi>Mag. Char.</hi> and the <hi>Petition of Right,</hi> which all Justices of Peace, and Magistrates in their several jurisdictions, are Authorized, and sworn to hear and determine, without fear, favour or respect of persons. How then to be excused, or delayed by any Writ, or command of any Superiour? And how are the Judges of the Kings Bench (whereof the cheif was the Kings Deputy by Writ) now Superiour, or equal to any other Judges, or Justices? If that maxime be true <hi>moritur Actio cum Personâ?</hi> But the Office of a Deputy dyeth with its Master, as a Letter, or Warrant of Attorney, with its maker: the Kings Bench may be spared as well as his person? And all causes in this Common-wealth, be called Common-Pleas, and tryed by the Common Law of the land, and Verdicts of common people, and Free-holders of every County, and Corporation, before the Free Judges, and Magistrates freely chosen by the said Common and Free-People, to justifie them at home, and not before mercinary makers, expounders, and sellers of all Lawes, and Liberties, as they please at <hi>Westminster.</hi> And doth not the said Stat. of 28. <hi>Ed.</hi> 3. warrant Justices of Peace, or any two of them (whereof one to be of the <hi>Quorum</hi>) to call and keep Sessions as often as they see need to do justice to their Countrey? See the Stat. at large, and <hi>Cromp. I. P.</hi> fol. 112. and <hi>F. H. I. P.</hi> fol. 10.</p>
+            <p>Deus faxit.</p>
+            <p>Whereunto add, That as <hi>Mag. Char.</hi> compriseth all the Law of this land agreed upon by Kings and People, and would be read and published in English (as aforesaid) for the better understanding thereof by all English People, to the end, that the ignorance of their Law, should be no excuse for any of them to transgress it: So how needless it is, if not pestiferous, to have this Common-Law reduced to a pri<g ref="char:EOLhyphen"/>vate mercinarie Trade, or particular science exceeding the seven Liberal, by such professours thereof, as have, and do endeavour to disguise, mask, and hide it from all but themselves, in base French, and La<g ref="char:EOLhyphen"/>tine intricacies and obscurities, to the end to make all persons offendours thereof, and none excusable, but by their resolutions of their own Riddles, which are alwaies answerable to their Fees (be the cause right or wrong) whereby the cure of Law becometh an incurable disease, until that superfluous mercinary profession be abolished, or regulated, so as the best and soundest Lawyers may be used in Parliaments (as in former times) to sit upon Wol-sacks, to answer to what that high Court shall be pleased to aske them, and not as members of that Court, to make Lawes, and Oathes for others, which they never observe them<g ref="char:EOLhyphen"/>selves but for their own gain, and the peoples damage: To which end, they alwaies preamble their inventions against <hi>Mag. Char.</hi> with titles of Acts for the good of the people, when in their subsequents they hurt all but themselves; As (passing by all former) their last Acts for the inlarging of poor prisoners for debt, sufficiently witness; whereby neither creditor nor debtour are any way relieved, but both further entangled, and Lawyers Fees more procreated; <hi>Videat experientia. Conclusive;</hi> That there can be no firm peace, or end of Wars, till there be an end of mercinarie professours of Law, less needful, or useful for Parliaments or People, than Bishops, or such as might be used there, or elswhere, for saying, or reading prayers; while these neither pray, preach, nor study, but their own lucrative magnificence every where up<g ref="char:EOLhyphen"/>on the peoples purses.</p>
+            <p>Add lastly; Such Justices of Peace as will not execute <hi>Mag. Char.</hi> with its confirmations, and the <hi>Petition of Right,</hi> and desert, and wave the execution, and practice of contradictory Statutes, (for zeal to their Creatours, or fear to be unmade by those that made them) ought to be deserted and waved by all good Patriots of their countrey, as excommunicated persons, and breakers of <hi>Mag. Char.</hi> And such onely as will execute <hi>Mag. Char.</hi> &amp;c. ought to be confirmed by the choise of the <hi>People</hi> in their Counties respectively, whereby they may act as the ancient Conservatours of the Peace did by the Common Law of <hi>England</hi> before <hi>Mag. Char.</hi> and since, which was, to conserve the Peace of <hi>England</hi> by all necessary means, word, or sword; unlimited by Prerogative Statutes devised by mercinary Lawyers, to steal from the People their birth-right Authority in the name of the King, unto themselves, to sell, delay, and deny it at their pleasures; which to do, is apparently contrary, not onely to <hi>Mag. Char.</hi> and the Common Laws of <hi>England,</hi> and also to common reason, but chiefly to the divine Providence of God: for neither Law, Reason, nor Divine justice, would ordain a man to conserve the publike peace of Gods people (which peace, as they, is his own) without giving that man an unlimitable power, by which he may execute his Office, and without which he cannot.</p>
+         </div>
+         <closer>
+            <signed>By JOHN JONES, Gent</signed>
+         </closer>
+      </body>
+   </text>
+</TEI>
